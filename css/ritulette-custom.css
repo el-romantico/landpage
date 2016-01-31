@@ -9,8 +9,12 @@
 	background: #ED1F38;
 }
 
-h1, h2, h3, h4, h5 {
+h3, h4, h5 {
 	color: #000;
+}
+
+h1, h2 {
+	color: #ED1F38;
 }
 
 .intro-block h1.slogan {
@@ -21,4 +25,8 @@ h1, h2, h3, h4, h5 {
 
 .intro-block h1.slogan {
 	margin-bottom: 50px;
+}
+
+section {
+	padding-top: 40px;
 }
